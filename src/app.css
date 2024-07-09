@@ -33,6 +33,11 @@
     cursor: pointer;
 }
 
+.winning-square {
+    background-color: #4caf50;
+    color: white;
+}
+
 .reset {
     margin-top: 20px;
     padding: 10px 20px;
