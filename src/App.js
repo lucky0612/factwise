@@ -44,6 +44,7 @@ const App = () => {
 
     return (
         <div className="game">
+            <h1 className="heading">TIC-TAC-TOE</h1>
             <div className="status">{status}</div>
             <div className="board">
                 {Array.from({ length: 9 }, (_, index) => renderSquare(index))}
