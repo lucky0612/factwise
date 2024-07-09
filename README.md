@@ -16,3 +16,4 @@ You may also see any lint errors in the console.
 
 
 #OUTPUT- 
+![Tic-Tac-Toe Screenshot](https://github.com/lucky0612/factwise/blob/main/OUTPUT.png)
