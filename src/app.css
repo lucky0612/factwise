@@ -7,7 +7,6 @@
     font-family: Arial, sans-serif;
     background-color: #282c34;
     color: white;
-
 }
 
 .status {
@@ -17,9 +16,8 @@
 
 .board {
     display: grid;
-    grid-template-columns: repeat(2, 100px);
+    grid-template-columns: repeat(3, 100px);
     grid-gap: 10px;
-
 }
 
 .square {
@@ -31,9 +29,8 @@
     justify-content: center;
     background-color: white;
     color: black;
-    border: 2px;
+    border: 2px solid #282c34;
     cursor: pointer;
-
 }
 
 .reset {
@@ -45,10 +42,8 @@
     border: none;
     cursor: pointer;
     border-radius: 5px;
-
 }
 
 .reset:hover {
     background-color: #d32f2f;
-
 }
