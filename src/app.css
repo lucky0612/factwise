@@ -9,6 +9,12 @@
     color: white;
 }
 
+.heading {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+
 .status {
     margin-bottom: 20px;
     font-size: 24px;
@@ -34,8 +40,8 @@
 }
 
 .winning-square {
-    background-color: #4caf50;
-    color: white;
+    background-color: white;
+    color: #4caf50;
 }
 
 .reset {
